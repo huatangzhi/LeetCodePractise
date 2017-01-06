@@ -54,6 +54,7 @@ public class FourSum {
 
         }
         return res;
+
     }
 
     private void printResult(List<List<Integer>> result){
